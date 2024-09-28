@@ -1,0 +1,398 @@
+@media (min-width: 320px) and (max-width: 575px){
+    nav i{
+        color: #fff;
+    }
+
+    nav img{
+        margin-left: -13px;
+    }
+
+    #banner-part {
+        padding: 351px 0 75px;
+    }
+
+    #banner-part img {
+        display: none;
+    }
+
+    #banner-part .img img {
+        display: none;
+    }
+
+    #banner-part h1 {
+        font-size: 45px;
+        width: auto;
+    }
+
+    #banner-part p {
+        width: auto;
+    }
+
+    #banner-part a {
+        margin-bottom: 10px;
+    }
+
+    #about-part {
+        padding-top: 100px;
+    }
+
+    #about-part .p2 {
+        width: auto;
+    }
+
+    #about-part .item:hover::after {
+        width: 296px;
+    }
+
+    #service-part {
+        padding-top: 100px;
+    }
+
+    #service-part .item {
+        height: 585px;
+        margin: 0 0 30px;
+    }
+
+    #service-part .img img {
+        display: none;
+    }
+
+    #news-part {
+        padding-top: 75px;
+    }
+
+    #news-part p {
+        width: auto;
+    }
+
+    #news-part h3 {
+        font-size: 26px;
+        width: auto;
+        margin-top: 65px;
+    }
+
+    #news-part .p2 {
+        font-size: 14px;
+        width: auto;
+    }
+
+    #news-part ul li {
+        width: auto;
+    }
+
+    #news-part a {
+        padding: 15px 41px;
+        font-size: 18px;
+        margin: 30px 0 0 59px;
+    }
+
+    #news-part img {
+        margin-left: 0;
+        width: 100%;
+        margin-top: 35px;
+    }
+
+    #office-part {
+        padding-top: 90px;
+    }
+
+    #office-part .p1 {
+        width: auto;
+        margin: 18px auto 70px;
+    }
+
+    #office-part h3 {
+        font-size: 30px;
+    }
+
+    #office-part .p2 {
+        font-size: 14px;
+        width: auto;
+    }
+
+    #office-part i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 12px;
+        margin-top: 15px;
+    }
+
+    #office-part .name {
+        width: 281px;
+        margin-top: 45px;
+    }
+
+    #office-part .email {
+        width: 281px;
+        margin-top: 15px;
+    }
+
+    #office-part .subject {
+        width: 281px;
+        margin: 20px 0 40px;
+    }
+
+    #office-part .message {
+        border-radius: 15px;
+        width: 281px;
+    }
+
+    footer p {
+        width: auto;
+    }
+
+    footer .gap .box {
+        margin-left: 19px;
+        margin-top: 50px;
+    }
+
+    footer .gap .box2 {
+        margin-left: 19px;
+        margin-top: 30px;
+    }
+
+    footer .gap .box3 {
+        margin-left: 19px;
+        margin-top: 30px;
+    }
+
+    footer .container::after {
+        width: 296px;
+        bottom: 90px;
+        left: 12px;
+    }
+
+
+
+
+
+
+    /* =================================== */
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    nav i{
+        color: #fff;
+    }
+
+    #banner-part {
+        padding: 298px 0 130px;
+    }
+
+    #banner-part img {
+        display: none;
+    }
+
+    #banner-part .img {
+        display: none;
+    }
+
+    #banner-part h1 {
+        font-size: 79px;
+        width: auto;
+        margin-top: 45px;
+    }
+
+    #banner-part p {
+        width: auto;
+    }
+
+    #about-part {
+        padding-top: 100px;
+    }
+
+    #about-part .item:hover::after {
+        width: 516px;
+    }
+
+    #service-part .item {
+        display: none;
+    }
+
+    #news-part {
+        padding-top: 150px;
+    }
+
+    #news-part p {
+        width: auto;
+    }
+
+    #news-part h3 {
+        font-size: 31px;
+        width: auto;
+        margin-top: 90px;
+    }
+
+    #news-part .p2 {
+        width: auto;
+    }
+
+    #news-part ul li {
+        width: auto;
+    }
+
+    #news-part a {
+        padding: 15px 41px;
+    }
+
+    #news-part img {
+        margin-left: 61px;
+        margin-top: 10px;
+    }
+
+    #office-part .p1 {
+        width: auto;
+    }
+
+    #office-part .name {
+        margin-right: 41px;
+        margin-top: 35px;
+    }
+
+    #office-part .subject {
+        width: 515px;
+        margin: 25px 0 50px;
+    }
+
+    #office-part .message {
+        width: 515px;
+    }
+
+    footer .icons {
+        margin-bottom: 30px;
+    }
+
+    footer .gap .box {
+        margin-left: 0;
+    }
+
+    footer .gap .box2 {
+        margin-left: 10px;
+    }
+
+    footer .gap .box3 {
+        margin-left: 49px;
+    }
+
+    footer .container::after {
+        width: 515px;
+        height: 1px;
+        left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+    /* ================================ */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    nav i{
+        color: #fff;
+    }
+
+    #banner-part {
+        padding: 298px 0 130px;
+    }
+
+    #banner-part img {
+        display: none;
+    }
+
+    #banner-part .img {
+        display: none;
+    }
+
+    #banner-part h1 {
+        font-size: 78px;
+        width: auto;
+        margin-top: 45px;
+    }
+
+    #banner-part p {
+        width: auto;
+    }
+
+    #about-part {
+        padding-top: 125px;
+    }
+
+    #about-part .p2 {
+        width: auto;
+    }
+
+    #about-part .item:hover::after {
+        width: 336px;
+    }
+
+    #service-part .item img {
+        display: none;
+    }
+
+    #service-part .item {
+        height: 0;
+        margin-top: 0;
+    }
+
+    #news-part {
+        padding-top: 125px;
+    }
+
+    #news-part p {
+        width: auto;
+    }
+
+    #news-part h3 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 36px;
+        font-weight: 500;
+        color: #000;
+        width: 650px;
+        margin-top: 100px;
+    }
+
+    #news-part img {
+        margin-left: 156px;
+    }
+
+    #office-part .p1 {
+        width: auto;
+    }
+
+    #office-part .p2 {
+        width: auto;
+    }
+
+    #office-part .name {
+        margin-top: 35px;
+    }
+
+    #office-part .subject {
+        margin: 25px 0 50px;
+    }
+
+    footer .icons {
+        margin-bottom: 50px;
+    }
+
+    footer .gap .box {
+        margin-left: 0;
+    }
+
+    footer .container::after {
+        width: 696px;
+        left: 36px;
+    }
+
+
+
+
+
+    /* ================================== */
+}
